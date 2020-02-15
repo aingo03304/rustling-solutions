@@ -1,3 +1,10 @@
+# Rustlings Solution!
+My solutions for rustlings exercises.  
+Fill free to contact me if there are some weird code.  
+
+----
+
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️
